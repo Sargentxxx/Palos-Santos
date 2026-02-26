@@ -1,0 +1,227 @@
+[dotenv@17.3.1] injecting env (3) from .env -- tip: 🛡️ auth for agents: https://vestauth.com
+-----------------------------------------
+Buscando datos del perfil: instagram...
+-----------------------------------------
+Paso 1: Buscando tu ID de cuenta de Instagram empresarial...
+¡Encontrado! Página: DelParque tk -> Instagram vinculado: @del.parquetk
+-----------------------------------------
+Paso 2: Extrayendo información de @instagram...
+✅ ¡Éxito! Datos extraídos:
+{
+  "followers_count": 700084094,
+  "media_count": 8345,
+  "name": "Instagram",
+  "profile_picture_url": "https://scontent.fcor11-1.fna.fbcdn.net/v/t51.82787-15/550891366_18667771684001321_1383210656577177067_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=7d201b&_nc_eui2=AeGlO5vQsefQBBcyjmAVjyF4cie0l55NUftyJ7SXnk1R-7pH35rJoNDkYtwXLB7FVbo&_nc_ohc=rgUstv_Rqt0Q7kNvwE2gwag&_nc_oc=Adn90r78PauLKr3ub0VHLZXngCDpYbe7PXeNV3b5jn2I3M0Br4xOvfOOFkw-CBgoiOSYl4UdKRJURLSfU5eRrVVp&_nc_zt=23&_nc_ht=scontent.fcor11-1.fna&edm=AL-3X8kEAAAA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&oh=00_AfssjqnJaSapQ18kXX7EtbcUldhbhse1ijBJleRDfm8-VQ&oe=69A5A528",
+  "website": "https://www.youtube.com/watch?v=v8n-AOe200s",
+  "biography": "Discover what's new on Instagram 🔎✨",
+  "media": {
+    "data": [
+      {
+        "id": "17948984933962389",
+        "caption": "music is everywhere 🎶⁣\n ⁣\n#InTheMoment⁣\n ⁣\nVideo by mjonesbenjamin",
+        "media_url": "https://instagram.fcor11-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQNpmelX4mbc7-nl-LrQTN0TWTsEh2lJxPgagTS3R4P2guZn_ZEqP9xx2z73c6yg903EfFISjJoGsOhgYTtNChDr.mp4?strext=1&_nc_cat=1&_nc_oc=AdkRSTz8j3x5GAvq-4o6QFX14jSNRkrhJOu9F5CFJ0-IdVNL32ZJX807nDMiKE1udgHt1Jln56Lgn4Gy4uVMUgDx&_nc_sid=5e9851&_nc_ht=instagram.fcor11-1.fna.fbcdn.net&_nc_ohc=zL-hVQRrpwAQ7kNvwG6_Kb8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDQ4NzIyMzExMTgzOTgsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e1b8cf1a4de02bf8&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSHlEUHlZT1k1OVpYYkVDQUhiRGV3WHZ0cDBTYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0I3NEVCOEI2MTQ3QjBFRDdCRDVCRjg5MjAxODc0RDlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8mIHuhLHgPxUCKAJDMywXQDM7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeGr9ko8PPXVboOLYRgWQrIJ1-sxxAN9zifX6zHEA33OJ5qDjenlHIko_qzQQVCkEUE&oh=00_AftIkQrtD_k5CIO3And5gUSKo2bcB6sDRbEXrFVQbehMPw&oe=69A5ACED",
+        "permalink": "https://www.instagram.com/reel/DVMZ0cnke29/",
+        "timestamp": "2026-02-25T20:11:00+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18094020917071016",
+        "caption": "but first, a snowboarding trick 🏂⁣\n⁣\n#InTheMoment ⁣\n ⁣\nVideo of ryanwach by seannjames ⁣\nMusic by lithe and dontoliver",
+        "media_url": "https://instagram.fcor11-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQOYPLR1zVj3SOd7QrySTOpBkdY_rrL6w1BfdegGttUuh5FaUYPu0gUCe9xOMnPDcH1vFmMJ58L0g3LM7-2wmM1O.mp4?strext=1&_nc_cat=1&_nc_oc=Adn-NZK_ifNXmC8n_HnoM2-qdycdkGbaqm2s5jADBA81G1KysVCQri0gYySKHlNJ08CjSjNW7xNbd_wzG_PbIXT7&_nc_sid=5e9851&_nc_ht=instagram.fcor11-1.fna.fbcdn.net&_nc_ohc=Vwcogo7AVsYQ7kNvwEc0c7K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDQ2MzUwNTQxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=350f1dba26569d98&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTnpvRENZUjFybmRQRjREQUtHeVRpQWZpT0o2YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0IzNDBFMUJGN0VENDY4MzZCN0U3QTE2MzY3N0Q1RThEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb817LgnaPgPxUCKAJDMywXQCSIMSbpeNUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeGrvm1qr1S_2T5Aww5GsHn1bTQ2rq3Sw81tNDaurdLDzTnB5EK03tLNs6dsmuTxyWE&oh=00_AfvWadyA7MgcHfUcV605MokG2PrSL0mxveYioE6Va25YHA&oe=69A595B6",
+        "permalink": "https://www.instagram.com/reel/DVJjujrgON4/",
+        "timestamp": "2026-02-24T17:40:02+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "17995119362747819",
+        "caption": "nihalkkaa (Nihal Hameed) is chasing views and dreams 🌊✨\n\nThe content creator is all about living with a YOLO mindset, doing fun things like traveling to the Sekumpul Waterfall in Bali when he can. \n\nCapturing the energy of these unforgettable experiences is what matters most to Nihal and he hopes that message comes through in his videos.\n\n“Life is happening right now, and the present moment deserves to be enjoyed. No one knows what tomorrow holds, so live today like it is your last.”\n\nVideo by nihalkkaa",
+        "media_url": "https://instagram.fcor11-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQMl-8TGfBKQnGwI1STX9h34ZCpAHFuyan-nZcyIKqwgqvfskflq90nOiI_HMCGEQH-msZ0lyXdansHlW_6mSYeJ.mp4?strext=1&_nc_cat=1&_nc_oc=AdmkhkOKP5qcZeDxYXgV3fBjwbtBbEhHsv0DVjLTu8inIDVP9m6O2RTGSUGdumhOEP9lWPxYQbNLjQAcvz4vTE07&_nc_sid=5e9851&_nc_ht=instagram.fcor11-1.fna.fbcdn.net&_nc_ohc=BdWXDlbpdKkQ7kNvwHEWZAy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDQ0MTM4MDExMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5ccf94b86f4cb70&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSWdCTkNZV2FzMVV1VlVFQUNYMjZWYXhFajRHYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U4NENDMEFBMDBFQ0NGOTNBRDQxRTNEMUU2NzFEREIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb86oulrZbgPxUCKAJDMywXQD3MzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeG8dTEMWloh-YiX7383poAauTS-R1nfhEW5NL5HWd-ERW9dJBkm1zQntDWZoQkmBkQ&oh=00_AfsiMAarzNGcS0J6f45HkZtoDzD--2uhsf8-61lUQjnRmw&oe=69A58F35",
+        "permalink": "https://www.instagram.com/reel/DVG6MPkAKEn/",
+        "timestamp": "2026-02-23T16:59:31+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18339328708245487",
+        "caption": "Floki was locked in 🏐👏⁣\n⁣\n#InTheMoment ⁣\n⁣\nVideo by dog_altinha",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOM11oQGchZYRknqE7K0SNi423vuKFWGLFIxBpUti9VmARjbYcreTOayn1IZRQU9_z730Xr1XlX_TT2kYIvItnD.mp4?strext=1&_nc_cat=103&_nc_oc=AdmzaUhFoYbl0CgouNj3RiqHDVZofuz4WNrpIPUTXSB41-CifrsW0zoZnVelCrEoIbeRjkuZSwD6XMDBR_h8hBRZ&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=Wdtbd_6Lm9YQ7kNvwFnM9ow&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDM3ODI3MDAxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=84dcffbb01ed2b07&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSE1zSGlZTExHU3E1RnNFQUpqRjZpVlByeHROYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NFNDkxMzQzMEUxN0M3NUUzMUE4MkFGNkE2OENCODkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8xaOcz_HfPxUCKAJDMywXQEGmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeGMvj8_a0KMlUS3s2jbj0OB8Q5YS_UlTPrxDlhL9SVM-ktmW1vNaj0TlMl7rhOLM_0&oh=00_Afvj1h1IwA3X6cPmc--oelFap-M_HU532EcfxgeGsMicAA&oe=69A59BED",
+        "permalink": "https://www.instagram.com/reel/DU_iU9UkcSK/",
+        "timestamp": "2026-02-20T20:16:43+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18080093819522566",
+        "caption": "steph.fm (Steph Chow) is turning the buzz of her guitar cable into music 🎶🎸\n\n#InTheMoment\n \nVideo and music by steph.fm",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQPJ1aqgmsxu7k_aJaOihz6ulkSho0rhyebAIJS66MyH3gUcsjomJYELzFvsN65kl5R4RQomtQVIcENpzgQge5Oa.mp4?strext=1&_nc_cat=101&_nc_oc=AdlkANnRJ8K26KMe0VoxEazDrSphOQpnoKMLDwVGbcLExZBLNu_2NEqvVlnETRB9QagTRhUa0rS_KQJvNp3zXivX&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=JWOdLhxChLcQ7kNvwFC5k3s&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNjA0LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDM1NDc0NTUxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjo2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5755e9e1b53358fa&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTHZaQVNhOV80dTIzYXdFQVBLWDh1Ry1QQkY5YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM4NDNBQTkzQzhCNjFDQTcxQTBDNjEwODdGNzNFREJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb88JTB9uPfPxUCKAJDMywXQDMVwo9cKPYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeH2RUV_GNt2kiw191yhui_-Sjc9PEh3zpFKNz08SHfOkTxlliwNoTdXfIK7vcV6gtk&oh=00_Afvn0ImbQNxLtvLKV0SwH_RDs8hd8DLBiA9qzJCYjtNoNA&oe=69A5A9F3",
+        "permalink": "https://www.instagram.com/reel/DU87H5ikVjc/",
+        "timestamp": "2026-02-19T19:59:04+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "17989209098933420",
+        "caption": "🎻🔥🙌 \n \nVídeo por sterdoviolino \nMúsica por felipeoriginaloficial e gordinhobolado_",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQPQDG7xTNvsf4qW5ZdFy7BPVKkMLER8f5-irE33DGCrPdEKw1RU1ykmDmIAi-0_uevfCHGSWNdR8qDwAxHk9bus.mp4?strext=1&_nc_cat=109&_nc_oc=Adm4w6M_u9petEl3aY10DRyqC0jwqqlq2ZFGxYc3iiknM0sLOeK_BtWemo5iaTRi4xHwGTXyCtc5GkqtZJ8rfR11&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=KVKXAKbIJUsQ7kNvwFHlCer&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDM1MTE1NDUxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjo2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=89170530e612af4c&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSGhQQWliN0FCMTlpdG9GQUdaY2tvRXFyUkpsYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzEyNDU1NjgzMjBEMkVCMjg5MzE1NDE2NkQ5NzRBQjlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8-tv66uHfPxUCKAJDMywXQDCu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeFRtCC1r_XoEGCYQDTr6Evg22Kn-KwV85XbYqf4rBXzlTW9zesQwOawS9T9iV6Dauk&oh=00_AftpbKzsiTCfwtSTZy0876cXVXOxviwIlAmUhIeTeKr52A&oe=69A58E37",
+        "permalink": "https://www.instagram.com/reel/DU8j5sFgIPW/",
+        "timestamp": "2026-02-19T16:32:42+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18111241957590668",
+        "caption": "Smooth moves 🏍️🪩 \n \nVideo by danceronbike \nMusic by sanjurathod07",
+        "media_url": "https://instagram.fcor11-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQMhYEXIkC3GanqPB3FDpvedUuXUsrnk9TuUHisRZA-9pd9Vc74eKMnWQU_UCZVCGJVRKrZ0nhNs7ERtd-WPyj2f.mp4?strext=1&_nc_cat=111&_nc_oc=AdnnEq2K4ZjgbkuMhueibAK3ek28RzT6my2VE2SKhPTHAa7xE2DE7XvW45xJmPq6CZfofl0AT9OATQHih_pAO_8N&_nc_sid=5e9851&_nc_ht=instagram.fcor11-1.fna.fbcdn.net&_nc_ohc=cPVw7RBaxYEQ7kNvwF0UX4r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDM0OTMzMTQxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjo2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b1e7e80506cbc8ef&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQjlJLXlXX29PZGtKM1FHQU1laWZhTEEyS2N4YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JENDJEN0RGQzEwNkQzRDkxRkQ4NzYzRkI5OTE3NTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8i6SQ4-DfPxUCKAJDMywXQDO1P3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeFmo5FVo40grl7EUf61X80nampbW17APxpqaltbXsA_GpVPr9jniLu-Ju3L94vnVnk&oh=00_AfstIO--Z1hx5YgFYfxt9piPmYSV6W0544ZSHSorMu1U4g&oe=69A59A8D",
+        "permalink": "https://www.instagram.com/reel/DU8bKW6AFkN/",
+        "timestamp": "2026-02-19T15:14:44+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "17859240651548982",
+        "caption": "🏍️💨🔥⁣\n⁣\n#InTheMoment ⁣\n ⁣\nVideo by imsurakshyakc ⁣\nMusic by anirudhofficial and dhibuninanthomas",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQNKlB3G2pSa-ostBS1k1aaBgmHi5A6NunyGJCm0NUHXXqQ3WjzkH4pM8G7S0ARsJGwDnHpj91dzrmalkTq3xo2e.mp4?strext=1&_nc_cat=103&_nc_oc=Adk6Pvvw2-18NppRbvKqCdMcJs0ohr6j9BDyjQwEjUZC8IACwS5C_ZpOhiLmXygYxQ0Jan8POian-ioycedGE0MJ&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=bvVMgpqj-W0Q7kNvwE9N4ku&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDMzMjY5ODgxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8b563efb231acb17&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSndLLUNYbkFCMmlwSWtFQUFUNGpJaUdqSk1vYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VCNDMxNEM5OTcyQTFFRDQ1N0JBNTE1NzA5Mzc1QjkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8pbnzi9ffPxUCKAJDMywXQDaAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeE8FKYmFOerUs_4iDkxreSYKKrGennj24UoqsZ6eePbhWPgt7vBRwwmSElMdReyFpQ&oh=00_AftwbW3JC7vIWryZ5ZMkJhjrC_NEmlIC6rzPqdHiIWnttQ&oe=69A594C5",
+        "permalink": "https://www.instagram.com/reel/DU6WG17EQ2D/",
+        "timestamp": "2026-02-18T20:00:35+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18084602972187831",
+        "caption": "You’ve never seen double Dutch like this 🤯⁣\n⁣\nMeet kai_reg_cpl (KAI), to_ma.diggerz (TO-MA) and d.lee_____1 (DAIKI), members of FORTH, a world champion jump rope team that is pushing the boundaries of the sport. ⁣\n⁣\nTheir videos aren’t just about epic moves, they celebrate originality and positive vibes: “We hope people take away the message that everyone is different and everyone is good. If we respect each person’s individuality and blend together, better things will be born.” 🔥👏⁣\n⁣\nVideo by kai_reg_cpl, to_ma.diggerz and d.lee_____1",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOEuvavU1KwN4yMXi0LcgmN7xU456-gfjpnEjPREVPtTZwLf1q95JpEEOu4Kh87I-oGRT45PkPZ-oe_ZyZILvYk.mp4?strext=1&_nc_cat=101&_nc_oc=Adn6tMj7T8xWOaiZ1TsOE30LMrKDeN7nZrrcQd-f1Cn9zWkrsLtrDvKp-kd8KE7OwXFMurkmJ74kcmGXxRh0H87u&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=DctdvAUozMAQ7kNvwHjsf58&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDMwNzAyNjMxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=bbc42fa9149ad4dc&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQTcxQVNhaWhfc19BNG9GQUpnMVZSSnVHdmxzYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y5NDY3MjkyNEZBNkRCQUNBMjYxMzc2MkYyQjA4N0ExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8qLSTk8jfPxUCKAJDMywXQDmzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeHte6g8VCAdciRS40iHpVaX_t6Wk5R73AL-3paTlHvcAt0TvIZIrNQrkirCgr_uDxc&oh=00_AfswpjeQzdGooOEpPi1RtYsTK45uRXRSxNG1f8eyKLQnkQ&oe=69A5A473",
+        "permalink": "https://www.instagram.com/reel/DU3fARJAM_q/",
+        "timestamp": "2026-02-17T17:12:24+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18073304717414547",
+        "caption": "valentine’s day instagram caption \n \nVideo by yeahicandrawwhataboutit",
+        "media_url": "https://instagram.fcor11-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQPyZJJG1FEuWTErVj2n--HGoqLrwll4reaf-mp4mL_rVoDSdc945-tjd5CwalMITS47rBc9iQ5FlTZLd9iMwpvE.mp4?strext=1&_nc_cat=107&_nc_oc=AdkNrRs45Nl0_QZEWd6EAQivnplzd3i6HjWm8MA9NRWaLwgC6VonxNk30cYDwQOuPqW8vTAH0C1Lu57H3lYmgFuu&_nc_sid=5e9851&_nc_ht=instagram.fcor11-1.fna.fbcdn.net&_nc_ohc=v0CbjwKOO2gQ7kNvwEGLA4q&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDIxNjI3MjQxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ddace8e40520c094&_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTFdUMWlSUDQ1LXNKX3dGQUxxdnMxVzN5ZGxpYnNwVEFRQUYVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm_P3iuqmT3z8VAigCQzMsF0AkFP3ztkWiGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeGUqeL6ypPx4_EPnJ2LTYeBwuvNeTK168rC6815MrXrygjziy8ZG9hv13D2Nlpt29Q&oh=00_Afv8RkiXUcqnrEIfcZWwx_9uq3BoMNECdVxcoMxzP7A5uw&oe=69A58E41",
+        "permalink": "https://www.instagram.com/reel/DUtr20dkcVj/",
+        "timestamp": "2026-02-13T22:00:35+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "17884231842448453",
+        "caption": "Dunking with vj.edgecombe (VJ Edgecombe) be like… 🏀🔥⁣\n⁣\nBorn and raised in the Bahamas, the professional basketball player says his upbringing fueled his passion for the game: “It helped shape my character, made me who I am today.” ⁣\n⁣\nTonight, VJ’s repping the sixers (Philadelphia 76ers) in the nba Rising Stars mini-tournament, where he joins other top rookies and sophomores. ⁣\n⁣\nHis advice for future NBA stars? “Stay disciplined and surround yourself with people that help you grow as a person and player.”",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOBGoc3L3WALH_CVS5HqIdsSe8zhTqjO0NCKRo5PMk7dg_N8d4NuyaTdapxeiVCQ_F0fxc3ye7_2P8_ZyY5GqQU.mp4?strext=1&_nc_cat=103&_nc_oc=AdkkhzsmzfXVSO-N7916hdHJxpwQt1fVnqb-8eXWo0w1O-YPti8jR2NRjm6E1dbijS3XYvPYfDvT4s8BGvifEptU&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=LGBQQo7cOdgQ7kNvwG6ntTq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDIxMTkxNzAxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a89b297702e1aa38&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS1l3cmlVWTcwY00tcFVIQUlzZ2RaV2dkUnAzYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdFNDgyNkY1QUEzNkRCRkJERTkzQTkwN0Y4QTczQzg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8y7j65JDfPxUCKAJDMywXQDQeuFHrhR8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeE4F2J5q7oCp-0LRx2HJ7gombkA3qVa2WiZuQDepVrZaKlAybR-L1lsN_jOS5EBams&oh=00_AfvXTwCvzeD0SVE08ZDwyxTUyEzmNlcrvVbNPOXnYmt8Ew&oe=69A58EC9",
+        "permalink": "https://www.instagram.com/reel/DUtKU_IALJT/",
+        "timestamp": "2026-02-13T17:00:15+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18004493672697275",
+        "caption": "spreading the love ❤️\n\n#InTheMoment\n \nVideo by thefastfoodie.tv\nMusic by shanksandbigfootofficial",
+        "media_url": "https://instagram.fcor11-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQNGoedCwIKND0HiooS9RzznGvrRZanRye49O2h3Af_r8EsWi2OgsO9x9vnPzsLgwBIZDpPeF_b11XKl8uZZIlmF.mp4?strext=1&_nc_cat=111&_nc_oc=AdkPhrrOIWqapBNst2YpV32I1DzZP-VNXHv62TpmIVAW3k2Lf4Z8hWDldTg82041M5-yorX7qMsZ7y5CKIzh2rN0&_nc_sid=5e9851&_nc_ht=instagram.fcor11-1.fna.fbcdn.net&_nc_ohc=Hw1I2mSRHLgQ7kNvwEzftHV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDE5Mzc5NTgxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjExLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=40b6d037a0394b84&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRG00cFNYODZIYXlsVFlEQU1uTmlQRmpER1JfYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzI5NDAwQ0M5RDk1RDkzMjlEMTZEOTVEQjY5NUUzNkFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8j5vpnobfPxUCKAJDMywXQCdU_fO2RaIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeFw5wgKNdYHz-Rwwo-oKvvBkpG4pRDxFLqSkbilEPEUuspoUbqzZPQMMAgJ_22mcnU&oh=00_AfulJKX7SvXia6uZDO2kH8JrB_0PXbKU37Px0I-n-v6jfw&oe=69A5A4A9",
+        "permalink": "https://www.instagram.com/reel/DUq_F1-EdlL/",
+        "timestamp": "2026-02-12T20:42:35+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18076861049625148",
+        "caption": "➡️➡️➡️",
+        "media_url": "https://scontent.cdninstagram.com/v/t51.82787-15/631179271_18702876526001321_1068116360127938237_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_eui2=AeFjO97yk9rzvSAPZW6FNyj-w84tZBUR-F7Dzi1kFRH4Xi2VOSMqpcoXM5JSHNc9HI8&_nc_ohc=1UnCMwXLgJAQ7kNvwENlE6y&_nc_oc=Adl51ILOqY_4sP6J0ImX5byKJjq3_BmMNeZpwp9JiPwTkdOEmjDeogYIKLKKW7RYAI_MjQwsO75eA9tZ5lQvv-Tg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&oh=00_AftMmrGxBpjJodjGGPXdLacvVY7fVZbqM6m33mryFMpP4g&oe=69A5AFF3",
+        "permalink": "https://www.instagram.com/p/DUquldgj-s_/",
+        "timestamp": "2026-02-12T18:17:45+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18326433784219571",
+        "caption": "Puxe como se ninguém estivesse olhando 😆💪 \n \nVídeo por eujao_ \nMúsica por Edvard Grieg",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQNnH70PaNrL3z0gM8oPefG968BnhkD6EVZE7YLRDDAup7OdWJuclg_HKK8KweOzkYG3D8iUUS8xLwl7Aokoabw5.mp4?strext=1&_nc_cat=100&_nc_oc=AdmsQAn5RzyzvOpLJu-OzxQ7xZ96lsFni9J5Z0bZiKONADI5N8ZcgFEH6MdjKmeZcx1GSlEKR23ERVd9yFTAIDbR&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=zfK6hQTnIgAQ7kNvwHEZMgo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDE4OTUzNzAxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2b22009844ca35f1&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRW5ucXlYM3FmWld5Sm9GQU5uYzhjWUZRdDlSYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JDNDJGNzIwQkM3QzZDRUE1REM5RjQzMTBGRjI0OEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb805DC4YPfPxUCKAJDMywXQCy7ZFocrAgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeE1LfAU30KPTJeRbytUVw2JifX5GrU2VwWJ9fkatTZXBdgMdOYETeGW9KjRyboZhS4&oh=00_Afs93CjJckqbsoMM_E3EzPkWcbwGoNTp9I3oHoqYuVLJgQ&oe=69A5A2AC",
+        "permalink": "https://www.instagram.com/reel/DUqe8RRAFlv/",
+        "timestamp": "2026-02-12T16:01:55+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18000861581889992",
+        "caption": "Clothes on clothes on clothes 👕👖👟 \n \nVideo by agasthya.shah \nMusic by anumalikmusic",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOz5E4KaOhSnxE9FWe6VYxVldBPyfdCWS_92gDwWQ-BDKt76J7ExvM5E0aNZll_Lcm8wk0JYUOOpFzs6IgMPwPu.mp4?strext=1&_nc_cat=100&_nc_oc=Adk2cWkfH5FMYlNoPpv00UlCRRdw70Vo9WUfN6N8eXbey9mYx9jsyPB3eHoXZKGJ3RDueLz1k2gc4jePqElcLQtX&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=WfRKrQoxcoIQ7kNvwFQP4Q1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDE4OTEyNDIxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeG-qMbbtHy-16t4z6Rios4A-NOZy9iwE2L405nL2LATYvrKqxdx9MQTrIxbjPDZIpA&vs=88edb6bf038a7167&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTHNKZHlXWkk3TmR3RGNEQUdqLUcwMDc0U1kyYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y5NDkwODYwNUFGRjFCRTZDNzlEREQzQUVCRDE4OThDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8s67hwoPfPxUCKAJDMywXQC8Q5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&oh=00_AfuCY4UgyTvsQB1HE2Jiqe8Lx3bCObKZ5jb1c-dF87l_5w&oe=69A5A31C",
+        "permalink": "https://www.instagram.com/reel/DUqc35qgCCO/",
+        "timestamp": "2026-02-12T15:44:56+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18151780273444117",
+        "caption": "POV: you’re at the bottom of charli_xcx (Charli XCX), kyliejenner (Kylie Jenner) and aidanzamiri ’s (Aidan Zamiri) feeds 👀\n \nSee “The Moment” stars and director break down their first Instagram posts and more in a new episode of Close Friends Only, now on YouTube. Link in bio 💚",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQN5jAGjqy0XMiby-ygtQXWJeHNooJKNMi33ZKYkgZb_RIdtZy-uP8wogC71FkssqIPO6C96dW4Y4foXy9_X2Lzb.mp4?strext=1&_nc_cat=101&_nc_oc=AdlYiwv3s0LH93Fes9HUtG-vL2vmU9XSpuPv76oVpVD0WRV73kYnZBrLw8qgoS0nUQdRE5ja1VJAUo6Kp-tLI0dG&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=wBi9yExXa6wQ7kNvwHzcXzc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDE1MTYxNTgxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxNSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjU2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeEIV44Bt5zZzP4cMg9KxfdkuLg4wod9s-y4uDjCh32z7IvqhIuN2ejBTK6KZj8yHcA&vs=f1e9547f15f549f4&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUDlrbXlWWm1ydjQ0VEFGQU1EdDBRdVNySkVQYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY2NDk3NEExREM4QkUwNTVBOTU1MzdFNTRGNzk2RUFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8p7GV2O3ePxUCKAJDMywXQExh64UeuFIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&oh=00_AfvFYFjXCtTD5Qds6XjyN6WSxPmQlOVsvSrzKwgcFU4oZg&oe=69A59EB3",
+        "permalink": "https://www.instagram.com/reel/DUlkUeOkag0/",
+        "timestamp": "2026-02-10T18:14:46+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18421053178140563",
+        "caption": "We’d also bring charli_xcx (Charli XCX), kyliejenner (Kylie Jenner) and aidanzamiri (Aidan Zamiri) with us on a deserted island tbh 😌🏝️⁣\n⁣\nThe trio spills their ideal day off, fav foods, “The Moment” memories and more in this episode of Close Friends Only: Speed Round 🎬✨",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQObCdy9k-ocJEltiTncpGZaILZE0wDHLJ_OtB43gVg9prg4w_UadnitU6rNlO0kaJ_5OkC10-6x923M04Gy7XVR.mp4?strext=1&_nc_cat=105&_nc_oc=AdmhjNgevneBVBzORAIxeiKf9fSrU-747pSiqjw-s_IKL9L-HDhz1eXASRw3WiwzqUmB5wE0xcb4V_FpmjSEMlSs&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=Z85j32IrczUQ7kNvwG9FqlV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDE0ODYxNjExMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxNSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE2NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeEzInnuYKK4jdd8yCnwyQkPggiIdE-CoA-CCIh0T4KgDxies2V1l0KuAhz0TtMQkEs&vs=c1c14b48156ec113&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTXBzbWlYU2hXcnBNSWtFQU9lZEh5WnpwZ2dZYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdGNDZCMjMzNThBQzY0MEU5OEJGNTI5MDhEQ0Y5MjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8koLW-OvePxUCKAJDMywXQGSRDlYEGJMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&oh=00_AfsAvPCv_4IgSFxsCUqmF1iE8cIs8GcoepwLyl6xsPAlBg&oe=69A5AB5F",
+        "permalink": "https://www.instagram.com/reel/DUlOJGtgEDY/",
+        "timestamp": "2026-02-10T15:02:16+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18090713885064606",
+        "caption": "adamlorentzi (Adam Lorentzi) isn’t mad. He’s just vibing with the music 😐🥁\n\n“People often think I look angry or annoyed when I’m playing because of my concentration face, but I’m actually having the best time,” says the Swedish musician.\n\nAdam started recording himself playing the drums for personal growth, but it quickly turned into something more. “It became a way to inspire and connect with people around the world through music.” 🎶\n\nVideo and music by adamlorentzi",
+        "media_url": "https://instagram.fcor11-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQMJkVF0yAq9wmsSobh0RigdHNigv_qQrgJvsBMQLYlxLOJXzouUhat1f-d_OPGCMnlfKTIyQ7HXNcGP1BwApaK5.mp4?strext=1&_nc_cat=110&_nc_oc=Adl1fXVWvdCR-skyNdsatUJNtT8hq8EWS_WPa8Bzhf4U9XMPS5C8fTCB3EK92QJFGK3phoCXLzijiltXMr6wIpGH&_nc_sid=5e9851&_nc_ht=instagram.fcor11-1.fna.fbcdn.net&_nc_ohc=wRXw4VQZrU4Q7kNvwG3MzUr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDEzMjkwNjkxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeEl9elG5n9Pynb1ugDOYPMJlik7yc1x4o-WKTvJzXHij9mAmGN6ZHiQB3fduvLLxu4&vs=e7339d2c4840261f&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRGhucUNYWERvUXR3N1VGQUk5dnJXQVdLSGhhYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkyNEE4RkI2QzJEQTQ4QkRGNzc4QjA3NkVGRDI0NUEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8zrSf5uLePxUCKAJDMywXQDdMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&oh=00_AfuxOVrGudL3wpg9d03MIP7YVKtuTEujcpX9-LrXo9dQJg&oe=69A598AE",
+        "permalink": "https://www.instagram.com/reel/DUi4burABYw/",
+        "timestamp": "2026-02-09T17:10:14+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "17879518287378746",
+        "caption": "living every day like it’s the big game 🙂‍↕️ \n \nft. coach oakleymeta (Oakley Meta) 🕶️",
+        "media_url": "https://scontent.cdninstagram.com/v/t51.82787-15/627055222_18701385976001321_581143140530590364_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_eui2=AeEZET_K0YeprlfKUkd0zx-9Pk_J2awVHlE-T8nZrBUeUQ9c6y6gf8m6nLFJHNw7YUE&_nc_ohc=EGnHdW983iUQ7kNvwHC2vWf&_nc_oc=Adm3gS03tyfjFQ27FHOT00ehoqx5Tf1Ct6tQEjvqXxC_C7pGZ6niiDfJ1Qhfuv0lyPu_YMhDBBsWvI1hvjRVBKLq&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&oh=00_Afs9zc0J7j8qq1lYbUEUIj2qvoO29gRNZDlHR13Nk_9Sug&oe=69A58C10",
+        "permalink": "https://www.instagram.com/p/DUd7qtLEeoP/",
+        "timestamp": "2026-02-07T19:01:56+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18390534805147219",
+        "caption": "racking up aura points with every floor 💃⁣\n ⁣\n#InTheMoment⁣\n ⁣\nVideo by minashfoto\nChoreography by sofiaklein.h\nMusic by portisheadofficial",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOVU4QlHG856Hj30NFxh06oBaHxU_tekYQuw5yAxPrmIArr0qgNERQKR_BvRbFqgIKMxTx3XaV5kegmaM5FOQWR.mp4?strext=1&_nc_cat=109&_nc_oc=AdmLbJVPURf5qQIL4DeQo9aHJOJy4iZd6jOrP-OowCs46P9YK7yOOJnk-B3uuXFr2TwuIRoKi2aRhVxscwcWaFTu&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=WQUFMuFYOj8Q7kNvwFxmPMv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDA3NjkyMTUxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxOSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeH7DWP5yn_hfM5OBj4x9gqC_3qfxqvhZ0__ep_Gq-FnT7w5vj_nCLFymglaLNEEPuc&vs=58d32a5dcf8978cf&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQjFHUXlYdUV6aGJSWk1EQUFHWVZVbWU4bkJ0YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M2NEI1OTcxOTRCMjY5NjE4NEQ4OTgzQzA2NzEyOUI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb88IOBm8LePxUCKAJDMywXQCAzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&oh=00_AfsECHSx6-BUymNx4Nny0lD1LpchXjKwTiXtbhcP66iKbw&oe=69A5A4F7",
+        "permalink": "https://www.instagram.com/reel/DUbef9TEYoj/",
+        "timestamp": "2026-02-06T20:09:02+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18057912245354875",
+        "caption": "bg2fast‘s (BG2FAST) take on football hits different 🏈  The creator began making videos about different catches and routes after no longer being able to play professionally. “I love that I can still compete, create and express myself through football — turn creativity into something that inspires millions.” ⁣\n And wearing oakleymeta Vanguard AI glasses brings a more authentic, first-person and hands-free vibe to every play. 😎",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOSYE6mhQpsXb9hS3-6Ii6J7J4K4R2uLCdqGY0EquvhZMu-SX2yns1kw1Gs3cn5VRdijyEkCKI9PNuRl2rMTYcs.mp4?strext=1&_nc_cat=109&_nc_oc=Adm_UTeNwo-cQxE5SbSGhuTT12i32QmYfgGbHN23nnx_TbatcEcl_mKCvyEUZZwPdSGKUz-TK7w3DDNyF0_YAe0E&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=t7ACw5HMd6sQ7kNvwGCxj8B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDA3NTkwNDUxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoxOSwidmlfdXNlY2FzZV9pZCI6MTA4ODQsImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeHHhd5tclAGlngArjdzW9twEAWc-bOeIEMQBZz5s54gQ3xqIZW8VSdK_IkomfUemF0&vs=2785ab5a27eb42a3&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3VfamlWeXhOdGM3SEFJQUxsN2JGSnNTeDR2YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FDNDIxMDBBNTg1MjlGREZEMjY3MTFEQTY4RUZENzlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb85pSez8HePxUCKAJDMywXQC-qfvnbItEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZYiqAQA&oh=00_Afu1VT_-sGE3eAl9i10E-C3LWjMk1LjW-FEfoxEtyWjzvQ&oe=69A59CCB",
+        "permalink": "https://www.instagram.com/reel/DUbWl3Rkrun/",
+        "timestamp": "2026-02-06T19:03:57+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "18083675825171600",
+        "caption": "skybrown (Sky Brown) is shredding it in the pool 🛹\n\nThe professional skateboarder shows off her moves with oakleymeta (Oakley Meta) HSTN AI glasses.",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOHwXdHeLgTpxS4DDNDL7MR1-qfjvgkPSWTeLNZ_8495QSImHUR6qLb1Vbj62pVYU2AgnHUp-BbDR-U2ddYcKul.mp4?strext=1&_nc_cat=100&_nc_oc=Admk5B5CRak629k8R3uyiaRIqCp7XKHAMVe-Hp-_Thht3h_XEQScg9goRxVH3RIuHr6IbheRnxEM_YEOSlJ6bC0N&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=2QxwjWLL2igQ7kNvwH2pgfQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDA1NTE1OTIxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTA4ODQsImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeHvFAV43ZKTIAIh7cw7Aie18Ps4kark1Enw-ziRquTUSc7_O0CFkeVSjPNLLY7JlUU&vs=7f22a3f26989d766&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS1lWU3lWTU5KR0JzVEVEQU5lX2tTQ3ZnUlJiYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzk2NDFFMDEyNkI2OTQ3MjI3QzY2MEI0QzU4QzRFMTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8ocjLxbXePxUCKAJDMywXQC9EGJN0vGoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZYiqAQA&oh=00_AfsYOq6FMTu9zzemweAt0_489st_LA9DL35C3K-Xvdk8-Q&oe=69A59D88",
+        "permalink": "https://www.instagram.com/reel/DUYjQN3gK0o/",
+        "timestamp": "2026-02-05T16:59:56+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "17891356926417283",
+        "caption": "Se minha memória não me falha 🤔\n\nVídeo por mycaniless\nMúsica por henrymancini",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOaj0OgCXNf_bTv1carq21eBNFjqkUWocsZucxlogS913uVt0s2zTZtadYrG2-nkEGWTIRB55tulnV6hcGLuKEU.mp4?strext=1&_nc_cat=109&_nc_oc=AdlSsi_2MO6zxFbHhoYnJLpuVg45R0KuYiTP99PmCAq0Lc-pHGgU_nEJRi4BwYo9HlfsVzZiESIAop3Z4U1zOWKV&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=uwm673AJZJwQ7kNvwG9YvAD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDA1NDE5NzExMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeF4LOcQQ6fgtwa_8xIgx4SpMVgnAm4EF50xWCcCbgQXnfbjJYcxXTxvC_Z2AyUImuQ&vs=5c17b62df8f610df&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTGY1YlNYdGNqbWdEYThDQUxmOHFGY2JTMFJtYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzEzNENFOEI2MkE4MEYxODAxRTMyOTJENzI4RUY0QTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb85KH0_bTePxUCKAJDMywXQCSIMSbpeNUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&oh=00_AftnPAJ_AC0ZNj88U2327Dij73eXJksz1oc2iZjBgq5L7w&oe=69A592A7",
+        "permalink": "https://www.instagram.com/reel/DUYcebXieqj/",
+        "timestamp": "2026-02-05T16:01:47+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "17889426660423608",
+        "caption": "tombrady (Tom Brady) has reached ultimate “unc” status (according to his son Benny) 😏\n\nThe football icon and Benny chat about how social media has changed the game for football recruiting (goodbye VHS tapes 👋) — plus who Benny would DM if he had access to his dad’s Instagram for a day 😎\n\nIt all goes down in the second episode of Carversations, our series where parents have conversations with their teens about how they’re using social media 🚗 Watch the full episode on our YouTube channel (link in bio).",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMT1TzQyDP-LwSfHRc5daI_fxikmN4kIlqlL9ZBjQR1Fusgll1-trEiungzOl1Nzxac_ITkLSMr4YEftG8tB089S9x4V-fOhA2vj2M.mp4?_nc_cat=106&_nc_oc=AdlpzofDFrNniJcdMi3SVZKm9ABoDKZ83o25rGHUN479DqabCs-evhC6mb5cmoKVRUQjlRBSj-lCB1DUfdQzfwW-&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=t8XTiKvdkMcQ7kNvwGvhyVZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDAzMjA5MjUxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjc5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeE8EbC5ybW5c9tl98YL0npJ-zMFOyRb4DX7MwU7JFvgNVLzurV3nngmcOBLP9mpu7Y&vs=4dc60295da793ba7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NzQxMzQ3NDk5ODA1NEZDQzg5NTkyRUMyMDg4MzA4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc0NDFGMEMzQUY1RDI0NDkxQzU2QkYzNjQxOUYxMDgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8vq_-jqjePxUCKAJDMywXQFPrdLxqfvoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&oh=00_Aftis2MWhWPuT3i6qzl4cDMqk0OLlCtWLlDyNUUtp6I2fQ&oe=69A1956B",
+        "permalink": "https://www.instagram.com/reel/DUVeW6BgNId/",
+        "timestamp": "2026-02-04T12:15:30+0000",
+        "username": "instagram"
+      },
+      {
+        "id": "17858198817603357",
+        "caption": "serving looks and legs 🐛⁣\n⁣\n#InTheMoment⁣\n⁣\nVideo by avangardeev ⁣\nMusic by globalgeniusproductions",
+        "media_url": "https://instagram.fcor11-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMpoHADtLcaIprubxslKLRahJYp889gQHmX4SqCY0jSBeapsfXYHKuS-xPrlFvtR3AS6eEwj9gnyGxO7b7Oj36mVW44CcIT2QwgWm8.mp4?_nc_cat=100&_nc_oc=Adl6eWmnN3PO51wuJoSjnt2tHYdSFBEc44_LM39wF9MssoT6UHtSGDtwXEb6O3lcoQDmlRiAcJFsXi9LP48s-KuW&_nc_sid=5e9851&_nc_ht=instagram.fcor11-2.fna.fbcdn.net&_nc_ohc=J_NFxZSro0QQ7kNvwFnSnRO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDAyMjA3NzAxMTgzOTgsImFzc2V0X2FnZV9kYXlzIjoyMiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4c10bbc1dc11e6ba&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNzQyMTNCMDc1MzEwOEM2MDMwMzFDRkUzRURGRDNBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ExNDI3QkVGNzc0QkE5NzI1MDNGMjVGQUE2OTc4MTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8q4_jpKLePxUCKAJDMywXQCgzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=A5ILlfZAIty4wFlwQQAgAw&edm=AL-3X8kEAAAA&_nc_zt=28&_nc_eui2=AeFVwvZYP5LgyCqUl4LSd_r3mSqkjQMsXTKZKqSNAyxdMn6R17hFN8S31DgMoxQ009Q&oh=00_AfsgP_huSEu9b7ALFeLa0qN9zfJRyR7J0QCO1dNejCdW8Q&oe=69A1BA39",
+        "permalink": "https://www.instagram.com/reel/DUTyFq9kfwZ/",
+        "timestamp": "2026-02-03T20:27:08+0000",
+        "username": "instagram"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "after": "QVFIU3ZAXRmtaU2wyOUFITkpTOVJ6YnhUTVdYMjFBd1FSMlMxUkMxZAUppbDdTb3YzZAlFxR2FCQmNzRFRrZA21SN19LOHRYdFNESUcyLVV0aXRSdzdHSmtSZA3ZAB"
+      }
+    }
+  },
+  "id": "17841400039600391"
+}

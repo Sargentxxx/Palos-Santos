@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Palos Santos - Empanadas & Hornos a Leña</title>
+    <meta
+      name="description"
+      content="Hornos a leña, delivery & take away de empanadas en Santiago del Estero."
+    />
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,600;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <!-- FontAwesome for Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero-overlay"></div>
+      <div class="container hero-content">
+        <div class="profile-header">
+          <div class="profile-image-container">
+            <img
+              id="profile-picture"
+              src="https://ui-avatars.com/api/?name=Palos+Santos&background=D97706&color=fff&size=250"
+              alt="Logo Palos Santos"
+              class="profile-image hidden"
+            />
+            <div class="loader-skeleton profile-skeleton"></div>
+          </div>
+          <div class="profile-info">
+            <h1 id="profile-name">Cargando...</h1>
+            <p id="profile-bio" class="bio-text">Conectando con el horno...</p>
+
+            <div class="stats-container">
+              <div class="stat-box">
+                <span id="followers-count" class="stat-number">-</span>
+                <span class="stat-label">Seguidores</span>
+              </div>
+              <div class="stat-box">
+                <span id="media-count" class="stat-number">-</span>
+                <span class="stat-label">Publicaciones</span>
+              </div>
+            </div>
+
+            <a id="action-btn" href="#" target="_blank" class="btn-primary">
+              <i class="fab fa-whatsapp"></i> Hacer Pedido
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="container gallery-section">
+      <div class="section-title">
+        <h2>Recién Salidos del Horno</h2>
+        <p>Descubre nuestras últimas creaciones en Instagram</p>
+      </div>
+
+      <div id="media-grid" class="media-grid">
+        <!-- Skeletons while loading -->
+        <div class="media-card skeleton-card"></div>
+        <div class="media-card skeleton-card"></div>
+        <div class="media-card skeleton-card"></div>
+        <div class="media-card skeleton-card"></div>
+        <div class="media-card skeleton-card"></div>
+        <div class="media-card skeleton-card"></div>
+      </div>
+    </main>
+
+    <footer>
+      <div class="container footer-content">
+        <p>
+          &copy; <span id="current-year"></span> Palos Santos. Todos los
+          derechos reservados.
+        </p>
+        <div class="social-links">
+          <a
+            href="https://www.instagram.com/palossantos.sgo"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Perfil de Instagram"
+            ><i class="fab fa-instagram"></i
+          ></a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

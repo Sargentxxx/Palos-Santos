@@ -1,0 +1,19 @@
+[dotenv@17.3.1] injecting env (3) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+-----------------------------------------
+Buscando datos del perfil: instagram...
+-----------------------------------------
+Paso 1: Buscando tu ID de cuenta de Instagram empresarial...
+¡Encontrado! Página: DelParque tk -> Instagram vinculado: @del.parquetk
+-----------------------------------------
+Paso 2: Extrayendo información de @instagram...
+-----------------------------------------
+❌ Error al conectar con Instagram API:
+{
+  "error": {
+    "message": "(#10) Application does not have permission for this action",
+    "type": "OAuthException",
+    "code": 10,
+    "fbtrace_id": "A6ispUBRCGS71oj5m6Fvqaz"
+  }
+}
+-----------------------------------------

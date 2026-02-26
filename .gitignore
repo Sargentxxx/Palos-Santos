@@ -1,0 +1,4 @@
+node_modules/
+.env
+out_latest.log
+*.log
