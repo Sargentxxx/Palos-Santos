@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Palos Santos CRM - Instagram Hub</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="admin_styles.css" />
+    <!-- FontAwesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="dashboard-container">
+      <!-- Sidebar Navigation -->
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <i class="fa-solid fa-fire logo-icon"></i>
+          <h2>Palos Santos</h2>
+        </div>
+        <ul class="nav-menu">
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="fa-solid fa-chart-pie"></i>
+              <span>Overview</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="fa-solid fa-bell-concierge"></i>
+              <span>Online Orders</span>
+            </a>
+          </li>
+          <li class="nav-item active">
+            <a href="#" class="nav-link">
+              <i class="fab fa-instagram"></i>
+              <span>Social Integrations</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="fa-solid fa-gear"></i>
+              <span>Settings</span>
+            </a>
+          </li>
+        </ul>
+
+        <div class="sidebar-footer">
+          <div class="user-profile">
+            <div class="avatar"><i class="fa-solid fa-user"></i></div>
+            <div class="user-info">
+              <strong>Administrador</strong>
+              <span>Admin</span>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <main class="main-content">
+        <header class="top-nav">
+          <h1>Instagram Hub</h1>
+          <div class="nav-actions">
+            <button class="btn btn-outline" id="refresh-btn">
+              <i class="fa-solid fa-rotate-right"></i> Sincronizar
+            </button>
+          </div>
+        </header>
+
+        <section class="metrics-section">
+          <div class="metric-card glass-panel">
+            <div class="metric-icon"><i class="fa-solid fa-users"></i></div>
+            <div class="metric-data">
+              <h3>Total Followers</h3>
+              <p id="crm-followers" class="text-glow">Cargando...</p>
+            </div>
+          </div>
+          <div class="metric-card glass-panel">
+            <div class="metric-icon"><i class="fa-solid fa-images"></i></div>
+            <div class="metric-data">
+              <h3>Total Posts</h3>
+              <p id="crm-posts" class="text-glow">Cargando...</p>
+            </div>
+          </div>
+          <div class="metric-card glass-panel">
+            <div class="metric-icon">
+              <i class="fa-solid fa-chart-line"></i>
+            </div>
+            <div class="metric-data">
+              <h3>Engagement Rate</h3>
+              <p class="text-glow">
+                4.8%
+                <span class="trend up"
+                  ><i class="fa-solid fa-arrow-up"></i> 1.2%</span
+                >
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section class="media-management">
+          <div class="section-header">
+            <h2>Recent Media Activity</h2>
+            <div class="filters">
+              <button class="filter-btn active">All</button>
+              <button class="filter-btn">Images</button>
+              <button class="filter-btn">Videos / Reels</button>
+            </div>
+          </div>
+
+          <div class="crm-media-grid" id="crm-media-grid">
+            <!-- Skeletons while fetching data -->
+            <div class="crm-card skeleton-card glass-panel"></div>
+            <div class="crm-card skeleton-card glass-panel"></div>
+            <div class="crm-card skeleton-card glass-panel"></div>
+            <div class="crm-card skeleton-card glass-panel"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="admin_app.js"></script>
+  </body>
+</html>
