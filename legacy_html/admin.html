@@ -39,8 +39,14 @@
               <span>Online Orders</span>
             </a>
           </li>
-          <li class="nav-item active">
-            <a href="#" class="nav-link">
+          <li class="nav-item" id="nav-inventory">
+            <a href="#inventory" class="nav-link">
+              <i class="fa-solid fa-boxes-stacked"></i>
+              <span>Inventory Hub</span>
+            </a>
+          </li>
+          <li class="nav-item active" id="nav-social">
+            <a href="#social" class="nav-link">
               <i class="fab fa-instagram"></i>
               <span>Social Integrations</span>
             </a>
@@ -67,7 +73,7 @@
       <!-- Main Content -->
       <main class="main-content">
         <header class="top-nav">
-          <h1>Instagram Hub</h1>
+          <h1 id="page-title">Instagram Hub</h1>
           <div class="nav-actions">
             <button class="btn btn-outline" id="refresh-btn">
               <i class="fa-solid fa-rotate-right"></i> Sincronizar
@@ -75,7 +81,7 @@
           </div>
         </header>
 
-        <section class="metrics-section">
+        <section id="social-section" class="metrics-section">
           <div class="metric-card glass-panel">
             <div class="metric-icon"><i class="fa-solid fa-users"></i></div>
             <div class="metric-data">
@@ -124,9 +130,64 @@
             <div class="crm-card skeleton-card glass-panel"></div>
           </div>
         </section>
+
+        <!-- Dashboard Section: Inventory Hub (New) -->
+        <section
+          id="inventory-section"
+          class="media-management"
+          style="display: none"
+        >
+          <div class="section-header">
+            <h2>Solicitudes de Empleados</h2>
+            <div class="filters">
+              <p class="text-dim">
+                Marca como "Comprado" cuando encargues la mercadería al
+                proveedor. El sistema notificará a la sucursal.
+              </p>
+            </div>
+          </div>
+
+          <div class="metrics-section" style="margin-bottom: 2rem">
+            <div
+              class="metric-card glass-panel"
+              style="border-left: 4px solid var(--status-red)"
+            >
+              <div class="metric-icon">
+                <i
+                  class="fa-solid fa-triangle-exclamation"
+                  style="color: var(--status-red)"
+                ></i>
+              </div>
+              <div class="metric-data">
+                <h3>Bajo Stock</h3>
+                <p id="low-stock-count" class="text-glow">0</p>
+              </div>
+            </div>
+            <div
+              class="metric-card glass-panel"
+              style="border-left: 4px solid var(--status-yellow)"
+            >
+              <div class="metric-icon">
+                <i
+                  class="fa-solid fa-clipboard-list"
+                  style="color: var(--status-yellow)"
+                ></i>
+              </div>
+              <div class="metric-data">
+                <h3>Pedidos Staff</h3>
+                <p id="pending-orders-count" class="text-glow">0</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="crm-media-grid" id="admin-orders-grid">
+            <!-- Employee requests dynamically injected here -->
+          </div>
+        </section>
       </main>
     </div>
 
-    <script src="admin_app.js"></script>
+    <!-- Need to load Firebase JS Modular SDK before our logic -->
+    <script type="module" src="admin_app.js"></script>
   </body>
 </html>

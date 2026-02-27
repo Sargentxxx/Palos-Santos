@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Palos Santos - Empleados</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="employee_styles.css" />
+    <!-- FontAwesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <!-- Firebase SDK (Modular) -->
+    <script type="module" src="employee_app.js"></script>
+  </head>
+  <body>
+    <div class="app-container">
+      <!-- App Header -->
+      <header class="mobile-header">
+        <div class="logo">
+          <i class="fa-solid fa-fire text-orange"></i> Palos Santos
+        </div>
+        <div class="user-badge">
+          <i class="fa-solid fa-user-astronaut"></i> Salon
+        </div>
+      </header>
+
+      <!-- Main Content Area -->
+      <main class="content-area">
+        <div class="tabs">
+          <button class="tab-btn active" data-tab="tab-inventory">
+            Inventario Físico
+          </button>
+          <button class="tab-btn" data-tab="tab-orders">
+            Pedidos Pendientes <span class="badge" id="pending-badge">0</span>
+          </button>
+        </div>
+
+        <!-- TAB 1: Inventory List -->
+        <section id="tab-inventory" class="tab-content active">
+          <div class="section-header">
+            <h2>Stock Actual</h2>
+            <p>Reporta si nos falta algún insumo para cocinar.</p>
+          </div>
+
+          <div class="inventory-list" id="inventory-list">
+            <!-- Dynamic inventory items injected here -->
+            <div class="loading-state">
+              <i class="fa-solid fa-spinner fa-spin"></i> Cargando insumos...
+            </div>
+          </div>
+        </section>
+
+        <!-- TAB 2: Orders Tracking -->
+        <section id="tab-orders" class="tab-content">
+          <div class="section-header">
+            <h2>En Camino</h2>
+            <p>Marca como "Recibido" cuando el proveedor deje el cajón.</p>
+          </div>
+
+          <div class="orders-list" id="orders-list">
+            <!-- Dynamic active orders injected here -->
+          </div>
+        </section>
+      </main>
+
+      <!-- Bottom Navigation Bar -->
+      <nav class="bottom-nav">
+        <a
+          href="#"
+          class="nav-item active"
+          onclick="switchTab('tab-inventory')"
+        >
+          <i class="fa-solid fa-box-open"></i>
+          <span>Stock</span>
+        </a>
+        <a href="#" class="nav-item" onclick="switchTab('tab-orders')">
+          <i class="fa-solid fa-truck-fast"></i>
+          <span>Pedidos</span>
+        </a>
+        <a href="index.html" class="nav-item">
+          <i class="fa-solid fa-home"></i>
+          <span>Landing</span>
+        </a>
+      </nav>
+    </div>
+
+    <!-- Request Order Modal Element -->
+    <div class="modal-overlay" id="order-modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 id="modal-item-name">Solicitar Insumo</h3>
+          <button class="close-btn" id="close-modal">
+            <i class="fa-solid fa-xmark"></i>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>¿Cuánta cantidad necesitas pedir a los administradores?</p>
+
+          <div class="quantity-selector">
+            <button class="qty-btn" id="qty-minus">
+              <i class="fa-solid fa-minus"></i>
+            </button>
+            <input type="number" id="qty-input" value="1" min="1" readonly />
+            <button class="qty-btn" id="qty-plus">
+              <i class="fa-solid fa-plus"></i>
+            </button>
+          </div>
+          <p class="unit-label" id="modal-unit-name">Unidades</p>
+        </div>
+        <div class="modal-footer">
+          <button class="btn-primary w-100" id="submit-order-btn">
+            Enviar Pedido <i class="fa-solid fa-paper-plane"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
